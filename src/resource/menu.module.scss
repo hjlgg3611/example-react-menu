@@ -1,0 +1,15 @@
+.menuFold {
+    width: 100%;
+    background: #1d2327;
+    display: inline-block;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+}
+
+.menuConent {
+    display: grid;
+    place-items: center;
+    background: white;
+    font-size: 50px;
+}
